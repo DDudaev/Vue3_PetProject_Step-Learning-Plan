@@ -1,7 +1,8 @@
-** 🧩 Vue 3 Step Learning Plan ** RU
+**🧩 Vue 3 Step Learning Plan** RU
+
 Интерактивное мини-приложение, разработанное с использованием Vue 3 (Composition API). Этот проект демонстрирует пошаговое изучение ключевых понятий Vue.js с возможностью переключения между этапами и сохранением прогресса в localStorage.
 
-** 🚀 Возможности проекта: **
+**🚀 Возможности проекта:**
 
 - 📌 Отображение текущего шага обучения с описанием.
 
@@ -17,7 +18,7 @@
 
 ![Vue Step Learning](./src//assets/img/scrin.png)
 
-** 🛠️ Стек: **
+**🛠️ Стек:**
 
 - Vue 3 ( Composition )
 
@@ -27,11 +28,13 @@
 
 - CSS
 
-** 🧩 Vue 3 Step Learning Plan **
+
+**🧩 Vue 3 Step Learning Plan** ENG
+
 An interactive mini-application built with Vue 3 (Composition API).
 This project demonstrates a step-by-step learning path of core Vue.js concepts, featuring stage navigation and progress saving via localStorage.
 
-** 🚀 Project Features: ** ENG
+**🚀 Project Features:** 
 
 - 📌 Displays the current learning step with description.
 
@@ -45,7 +48,7 @@ This project demonstrates a step-by-step learning path of core Vue.js concepts, 
 
 - 💡 Utilizes Composition API, ref, reactive, computed, watch, onMounted.
 
-** 🛠️ Tech Stack: **
+**🛠️ Tech Stack:**
 
 - Vue 3 ( Composition )
 

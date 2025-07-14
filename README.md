@@ -48,6 +48,8 @@ This project demonstrates a step-by-step learning path of core Vue.js concepts, 
 
 - 💡 Utilizes Composition API, ref, reactive, computed, watch, onMounted.
 
+![Vue Step Learning](./src//assets/img/scrin.png)
+
 **🛠️ Tech Stack:**
 
 - Vue 3 ( Composition )

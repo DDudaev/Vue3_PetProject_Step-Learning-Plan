@@ -3,7 +3,7 @@ import mainComponents from '@/components/mainComponents.vue'
 </script>
 
 <template>
-  <mainComponents> </mainComponents>
+  <mainComponents />
 </template>
 
 <style scoped></style>
